@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.title1 {
+  @apply text-4xl text-agroGreen-ligth font-bold;
+}
+.title3 {
+  @apply text-xl text-agroGreen-ligth font-bold;
+}
